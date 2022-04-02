@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Tecnologies used
+
+In this project was made with React JS, Styled Components include concepts api rest, requests, ui and ux.
+
+Was developed only the front-end and at back-end i'm using an existing server.
+
 ## Available Scripts
 
 In the project directory, you can run:
